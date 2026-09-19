@@ -40,7 +40,7 @@ Live Demo: (https://alexanderabel.github.io/gitreadykelompokAMW/)
 
 ## Contribution
 
-| Jokowi Muda | Role | Kontribusi |
+| Nama Kelompok | Role | Kontribusi |
 |---|---|---|
 | Alexander Abel Maha | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
 | William Philip Harjono | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
